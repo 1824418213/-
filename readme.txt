@@ -5,6 +5,7 @@ Git is bbb.bbb
 Git is ccc.ccc
 错误的代码22222
 创建并切换到新的分支
+<<<<<<< HEAD
 Creating a new branch is quick & simple
 dev分支合并.
-主分支修改冲突
+
