@@ -7,3 +7,4 @@ Git is ccc.ccc
 创建并切换到新的分支
 Creating a new branch is quick & simple
 dev分支合并.
+主分支修改冲突
