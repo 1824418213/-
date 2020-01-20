@@ -8,4 +8,4 @@ Git is ccc.ccc
 <<<<<<< HEAD
 Creating a new branch is quick & simple
 dev分支合并.
-
+修复了bug
